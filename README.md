@@ -17,5 +17,3 @@ npm run server
 ```sh
 npm run dev
 ```
-
-## UI
